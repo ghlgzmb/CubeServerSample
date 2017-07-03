@@ -96,4 +96,10 @@ public class RecipeCube extends Cube {
 		this.content = tr;
 	}
 
+	@Override
+	public Document doAction(Document action) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
 }

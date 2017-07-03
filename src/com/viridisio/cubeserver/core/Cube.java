@@ -24,4 +24,6 @@ public abstract class Cube {
 	abstract public void fillFromXml(Document xml);
 	
 	abstract public void beforeDelete();
+	
+	abstract public Document doAction(Document action);
 }

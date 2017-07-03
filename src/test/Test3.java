@@ -28,10 +28,10 @@ public class Test3 {
 
 	public static void main(String[] args) {
 		//create();
-		//cr.deleteCube("ce5042e2-f979-4004-8ff7-0858e8e28b5f");		
+		cr.deleteCube("85d4f0fc-10b8-4eb4-8fa6-633c5386532a");		
 		
 /*
-		LocalTableCube cube1 = (LocalTableCube) cr.getCube("ce5042e2-f979-4004-8ff7-0858e8e28b5f");		
+		LocalTableCube cube1 = (LocalTableCube) cr.getCube("85d4f0fc-10b8-4eb4-8fa6-633c5386532a");		
 
 		for (LocalTableRow row : cube1.rows)
 		{
@@ -41,8 +41,8 @@ public class Test3 {
 			System.out.println("After replace "+tr.str + ":" + tn.number);
 
 		}
-*/
 
+*/
 	}
 	
 	public static void create()

@@ -31,7 +31,7 @@ public class Test2 {
 		ts.str = "M3";
 		c.constant = ts;
 		
-		// cube1.recipe.weight("M3");
+		// cube1.recipe.weight("M3").weight;
 		FunctionCallExpression exp = new FunctionCallExpression();
 		exp.outputParameterId = "weight";
 		exp.inputParameters.add(c);

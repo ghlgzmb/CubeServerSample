@@ -108,4 +108,10 @@ public class ComposedFunctionCube extends Cube {
 		
 	}
 
+	@Override
+	public Document doAction(Document action) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
 }
